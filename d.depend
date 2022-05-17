@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1591136919 source:c:\users\1200\desktop\d\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1581587604 source:c:\users\elev\desktop\d\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1591129720 source:c:\users\barai\downloads\d\d\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
